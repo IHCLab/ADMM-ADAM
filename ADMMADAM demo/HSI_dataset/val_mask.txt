@@ -1,0 +1,1 @@
+HSI_dataset/mask_Ottawa
